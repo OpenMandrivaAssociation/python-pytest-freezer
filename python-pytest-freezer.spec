@@ -5,7 +5,7 @@
 
 Name:		python-pytest-freezer
 Version:	0.4.9
-Release:	2
+Release:	3
 Summary:	Pytest plugin providing a fixture interface for spulec/freezegun
 URL:		https://pypi.org/project/pytest-freezer/
 License:	MIT
